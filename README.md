@@ -1,2 +1,9 @@
 # solana-validator-simple-data
-Some simple instruments to watch your solana validator
+Here will be some simple instruments to watch your solana validator
+
+List:
+1. 
+2. 
+3. 
+4. 
+5. 
